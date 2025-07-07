@@ -1,0 +1,8 @@
+resource_group_name = "ss-terraform"
+location = "eastus"
+resource_group_name1 = "ss-terraform2"
+prefix = "ssterraform"
+vm_size = "Standard_B1ms"
+ssh_public_key = "~/.ssh/id_rsa.pub"
+admin_username = "ssterraform"
+admin_password = "Password@123"
